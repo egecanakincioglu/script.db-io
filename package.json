@@ -1,0 +1,52 @@
+{
+  "name": "script.db-io",
+  "type": "module",
+  "version": "3.0.0",
+  "description": "scriptdb",
+  "main": "./src/index.js",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "TEST=all c8 mocha",
+    "lint": "standard"
+  },
+  "engines": {
+    "node": ">= 14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptdb/script.db-io.git"
+  },
+  "keywords": [
+    "scriptdb",
+    "script.db-oi",
+    "for.db"
+  ],
+  "author": "scriptdb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scriptdb/script.db-io/issues"
+  },
+  "homepage": "https://github.com/scriptdb/script.db-io#readme",
+  "localMaintainers": [
+    "scriptdb <shams@haja.io>"
+  ],
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "c8": "^7.12.0",
+    "script.db-test-utils": "3.0.0",
+    "standard": "^17.0.0"
+  },
+  "standard": {
+    "env": "mocha"
+  },
+  "peerDependencies": {
+    "go-ipfs": "*",
+    "ipfs": "*",
+    "ipfsd-ctl": "*"
+  },
+  "dependencies": {
+    "@ipld/dag-cbor": "^9.0.0",
+    "@ipld/dag-pb": "^4.0.0",
+    "multiformats": "^11.0.0"
+  }
+}
