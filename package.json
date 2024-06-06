@@ -17,11 +17,16 @@
     "url": "git+https://github.com/egecanakincioglu/script.db-io.git"
   },
   "keywords": [
+    "quick.db",
+    "database",
+    "node.js",
+    "discord.js",
+    "turkish",
     "scriptdb",
     "script.db-oi",
     "for.db"
   ],
-  "author": "Cartel & Papaz Chavo",
+  "author": "Cartel & Papaz",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/egecanakincioglu/script.db-io"
