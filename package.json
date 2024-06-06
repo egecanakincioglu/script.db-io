@@ -1,7 +1,7 @@
 {
   "name": "script.db-io",
   "type": "module",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "scriptdb",
   "main": "./src/index.js",
   "exports": "./src/index.js",
