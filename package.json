@@ -14,21 +14,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scriptdb/script.db-io.git"
+    "url": "git+https://github.com/egecanakincioglu/script.db-io.git"
   },
   "keywords": [
     "scriptdb",
     "script.db-oi",
     "for.db"
   ],
-  "author": "scriptdb",
+  "author": "Cartel & Papaz Chavo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scriptdb/script.db-io/issues"
+    "url": "https://github.com/egecanakincioglu/script.db-io"
   },
-  "homepage": "https://github.com/scriptdb/script.db-io#readme",
+  "homepage": "https://github.com/egecanakincioglu/script.db-io",
   "localMaintainers": [
-    "scriptdb <shams@haja.io>"
+    "scriptdb <egecanakincioglu@icloud.com>"
   ],
   "devDependencies": {
     "mocha": "^10.2.0",
