@@ -52,4 +52,4 @@ If you have any questions or want to get in touch, feel free to reach us via [em
 
 ---
 
-<p align="center">Developed by Cartel & Papaz Chavo</p>
+<p align="center">Developed by Cartelizm & Papaz Chavo</p>
