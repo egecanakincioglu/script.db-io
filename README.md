@@ -49,7 +49,8 @@ Contributions are welcome! Please report suggestions or issues on [GitHub Issues
 ## 📧 Contact
 
 If you have any questions or want to get in touch, feel free to reach us via [email](mailto:egecanakincioglu@icloud.com).
-
+ 
 ---
 
-<p align="center">Developed by Cartelizm & Papaz Chavo</p>
+<p align="center">Developed by Egecan Akıncıoğlu</p>
+
